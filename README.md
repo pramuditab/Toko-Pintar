@@ -3,5 +3,5 @@ Toko Pintar is c based application that can be used for ordering groceries. This
 With this app, you can:
 - Make your own account
 - Sign in with your account
-- Adding items to your cart (saved to your account)
+- Add items to your cart (saved to your account)
 - Print your bill
